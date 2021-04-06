@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a5c3ac4.chunk.css",
-    "main.js": "/static/js/main.0bfcd5d2.chunk.js",
-    "main.js.map": "/static/js/main.0bfcd5d2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.15ffc49e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.15ffc49e.js.map",
-    "static/js/2.c44dcc3d.chunk.js": "/static/js/2.c44dcc3d.chunk.js",
-    "static/js/2.c44dcc3d.chunk.js.map": "/static/js/2.c44dcc3d.chunk.js.map",
-    "static/js/3.895f6954.chunk.js": "/static/js/3.895f6954.chunk.js",
-    "static/js/3.895f6954.chunk.js.map": "/static/js/3.895f6954.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3a5c3ac4.chunk.css.map": "/static/css/main.3a5c3ac4.chunk.css.map",
-    "static/js/2.c44dcc3d.chunk.js.LICENSE.txt": "/static/js/2.c44dcc3d.chunk.js.LICENSE.txt",
-    "static/media/trash.5351b184.svg": "/static/media/trash.5351b184.svg"
+    "main.css": "/Proyecto-Guajolota-React.js/static/css/main.3a5c3ac4.chunk.css",
+    "main.js": "/Proyecto-Guajolota-React.js/static/js/main.0bfcd5d2.chunk.js",
+    "main.js.map": "/Proyecto-Guajolota-React.js/static/js/main.0bfcd5d2.chunk.js.map",
+    "runtime-main.js": "/Proyecto-Guajolota-React.js/static/js/runtime-main.efc9dbbc.js",
+    "runtime-main.js.map": "/Proyecto-Guajolota-React.js/static/js/runtime-main.efc9dbbc.js.map",
+    "static/js/2.c44dcc3d.chunk.js": "/Proyecto-Guajolota-React.js/static/js/2.c44dcc3d.chunk.js",
+    "static/js/2.c44dcc3d.chunk.js.map": "/Proyecto-Guajolota-React.js/static/js/2.c44dcc3d.chunk.js.map",
+    "static/js/3.895f6954.chunk.js": "/Proyecto-Guajolota-React.js/static/js/3.895f6954.chunk.js",
+    "static/js/3.895f6954.chunk.js.map": "/Proyecto-Guajolota-React.js/static/js/3.895f6954.chunk.js.map",
+    "index.html": "/Proyecto-Guajolota-React.js/index.html",
+    "static/css/main.3a5c3ac4.chunk.css.map": "/Proyecto-Guajolota-React.js/static/css/main.3a5c3ac4.chunk.css.map",
+    "static/js/2.c44dcc3d.chunk.js.LICENSE.txt": "/Proyecto-Guajolota-React.js/static/js/2.c44dcc3d.chunk.js.LICENSE.txt",
+    "static/media/trash.5351b184.svg": "/Proyecto-Guajolota-React.js/static/media/trash.5351b184.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15ffc49e.js",
+    "static/js/runtime-main.efc9dbbc.js",
     "static/js/2.c44dcc3d.chunk.js",
     "static/css/main.3a5c3ac4.chunk.css",
     "static/js/main.0bfcd5d2.chunk.js"
