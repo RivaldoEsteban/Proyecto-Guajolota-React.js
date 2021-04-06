@@ -1,0 +1,45 @@
+.buy-cart {
+  position: relative;
+}
+
+.header-cart img {
+  width: 40px;
+}
+
+.header-cart h4 {
+  width: 280px;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.btn-buy {
+  border: none ;
+  width: 80%;
+  display: flex;
+  margin: 30px auto;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  border-radius: 15px;
+  color: white;
+  background: red;
+  outline: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.trash {
+  margin: 30px 20px;
+  width: 36px;
+  height: 36px;
+  background: rgb(251, 248, 248);
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.trash:hover {
+  background: rgb(179, 178, 178);
+}

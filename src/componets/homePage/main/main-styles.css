@@ -1,0 +1,58 @@
+.hero  {
+  font-size: 32px;
+  color: white;
+  text-shadow: 4px 4px rgba(0, 0, 0, .2);
+  width: 300px;
+  display: block;
+  margin: 30px auto 50px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.product {
+  display: flex;
+  background: white;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.product-img {
+  width: 120px;
+  height: 120px;
+}
+
+.product-description {
+  margin: auto auto auto 10px;
+  width: 130px;
+  text-align: start;
+}
+
+.product-title {
+  margin: 0;
+}
+
+.product-price {
+  color: rgb(255, 109, 12);
+  text-align: start;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.header-cart {
+  display: flex;
+  align-items: center;
+  margin: auto 15px;
+}
+
+.btn-card {
+  height: 40px;
+  margin: auto;
+  border-radius: 10px;
+  background: orange;
+  color: white;
+  font-weight: bold;
+  border: none;
+  text-shadow: 2px 2px 5px  rgba(0, 0, 0, .1);
+  outline: none;
+}
